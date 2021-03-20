@@ -7,17 +7,16 @@ const urls = [
   "o9lT5MshbXI", //5-machine
   "RIXClyhxL5A", //6-samurai champloo
   "RAXMnzBmjso", //7-aircraft
-  "TneoJDExtN4", //8-machine 2 1
-  "60b_9aSaNvU", //9-action 1
+  "TneoJDExtN4", //8-machine 2 
+  "60b_9aSaNvU", //9-action 
   "TPowKIC-Q90", //10-flcl
   "8zqav3M35kM", //11-somebody that i used to know
   "ORvEmKDjIHY", //12-aesthetic
-  "AaF7rXatU9E", //13-the girl next door 1
-  "MFIMfpf-SQs", //14-food,
-  "t4KU2q2HuPY", //15-magical transformation,
-  "V40tEMPNPmQ", //16-falling & flying ,
+  "AaF7rXatU9E", //13-the girl next door 
+  "MFIMfpf-SQs", //14-food
+  "t4KU2q2HuPY", //15-magical transformation
+  "V40tEMPNPmQ", //16-falling & flying 
   "_B6bYr30q1s", //17-liquid
-  "-qVlJunFKJ0", //18kimi no nawa
 ];
 
 const pickUrl = (list) => {
